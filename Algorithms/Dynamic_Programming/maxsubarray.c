@@ -3,6 +3,10 @@
 #include <math.h>
 #include <stdlib.h>
 
+/* The Maximum Subarray 
+   Link: https://www.hackerrank.com/challenges/maxsubarray
+*/
+
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
